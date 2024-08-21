@@ -1,6 +1,6 @@
 ---
 Title: "Clustering Documents using K-means with Jaccard Similarity"
-Author: "Nandini Jaiswal"
+Author: Nandini, Aritra
 Date: "2024-07-07"
 ---
 
